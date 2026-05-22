@@ -34,7 +34,7 @@ To run the local development server:
 
 ```bash
 # Clone the repository
-git clone https://github.com/LoveshPurswani18/Appscrip-Task-Lovesh-Purswani
+git clone https://github.com/LoveshPurswani18/E-Commerce-platform
 
 # Move into project directory
 cd appscrip-task-lovesh-purswani
