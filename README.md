@@ -4,7 +4,7 @@ A pixel-perfect, responsive e-commerce Product Listing Page (PLP) designed exclu
 
 ### Live Links
 - **Public GitHub Repository:** https://github.com/LoveshPurswani18/E-Commerce-platform
-- **Live Hosted Application (Vercel):** https://appscrip-task-lovesh-purswani.vercel.app/
+- **Live Hosted Application (Vercel):** https://e-commerce-lovesh-purswani.vercel.app/
 
 ---
 
