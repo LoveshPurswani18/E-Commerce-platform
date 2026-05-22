@@ -1,9 +1,9 @@
-# Appscrip Task by Lovesh Purswani
+# E-Commerce Platform by Lovesh Purswani
 
-A pixel-perfect, responsive e-commerce Product Listing Page (PLP) designed exclusively for the metta muse storefront evaluation. This application faithfully implements the provided Figma specifications utilizing modern React architectures while strictly adhering to the "No UI Library / CSS Framework" restriction.
+A pixel-perfect, responsive e-commerce Product Listing Page (PLP) designed exclusively for the Metta Muse storefront evaluation. This application faithfully implements the provided Figma specifications utilizing modern React architectures while strictly adhering to the "No UI Library / CSS Framework" restriction.
 
 ### Live Links
-- **Public GitHub Repository:** https://github.com/LoveshPurswani18/Appscrip-Task-Lovesh-Purswani
+- **Public GitHub Repository:** https://github.com/LoveshPurswani18/E-Commerce-platform
 - **Live Hosted Application (Vercel):** https://appscrip-task-lovesh-purswani.vercel.app/
 
 ---
